@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ##################################################
 #
-# Created by eDAB
-# email: davor.baric@rt-rk.com
+# Created by Davor Baric
+# email: davorbaric1@hotmail.com
 #
 # Description:
 #       FileHandler, sorting files in folder according extension
